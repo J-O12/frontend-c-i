@@ -5,8 +5,6 @@ on:
   push:
     branches:
       - main
-    # paths:
-    #   - 'as/**'
 
 jobs:
   lint-and-test:
